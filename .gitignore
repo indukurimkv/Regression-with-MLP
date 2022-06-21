@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*
+!/Program/*
+!/Program/
+
+!.gitignore
